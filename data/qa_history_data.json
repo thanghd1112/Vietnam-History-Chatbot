@@ -1,0 +1,113 @@
+{
+    "DBP001": {
+        "question": "Ai là người chỉ huy chiến dịch Điện Biên Phủ?",
+        "answer": "Đại tướng Võ Nguyên Giáp là người chỉ huy chiến dịch Điện Biên Phủ. Ông đã trực tiếp chỉ huy chiến dịch này từ ngày 13/3/1954 đến ngày 7/5/1954, dẫn đến chiến thắng lịch sử của quân đội Việt Nam.",
+        "year": 1954,
+        "sources": [
+            "Đại Việt sử ký toàn thư",
+            "Bảo tàng Lịch sử Quân sự Việt Nam"
+        ],
+        "keywords": ["Điện Biên Phủ", "Võ Nguyên Giáp", "chiến dịch"],
+        "related_topics": ["DBP002", "DBP003"]
+    },
+    "DBP002": {
+        "question": "Chiến dịch Điện Biên Phủ diễn ra trong bao lâu?",
+        "answer": "Chiến dịch Điện Biên Phủ kéo dài 56 ngày đêm, từ ngày 13/3/1954 đến ngày 7/5/1954. Đây là chiến dịch quân sự quy mô lớn nhất trong cuộc kháng chiến chống Pháp của quân đội Việt Nam.",
+        "year": 1954,
+        "sources": [
+            "Đại Việt sử ký toàn thư",
+            "Viện Lịch sử Quân sự Việt Nam"
+        ],
+        "keywords": ["Điện Biên Phủ", "thời gian", "chiến dịch"],
+        "related_topics": ["DBP001", "DBP003"]
+    },
+    "HIS_1975_01": {
+        "question": "Chiến dịch Hồ Chí Minh diễn ra như thế nào?",
+        "answer": "Chiến dịch Hồ Chí Minh diễn ra từ ngày 26/4 đến 30/4/1975, là chiến dịch cuối cùng của cuộc kháng chiến chống Mỹ. Quân Giải phóng đã tiến công và nổi dậy giải phóng Sài Gòn, buộc chính quyền Sài Gòn đầu hàng vô điều kiện, kết thúc 21 năm chiến tranh, thống nhất đất nước.",
+        "year": 1975,
+        "category": "Chiến dịch lớn",
+        "sources": ["Viện Lịch sử Quân sự Việt Nam"],
+        "keywords": ["Chiến dịch Hồ Chí Minh", "giải phóng", "thống nhất"],
+        "related_ids": ["HIS_1975_02", "HIS_1975_03"]
+    },
+
+    "HIS_1973_01": {
+        "question": "Hiệp định Paris 1973 có những nội dung chính gì?",
+        "answer": "Hiệp định Paris ký ngày 27/1/1973 có các nội dung chính: 1) Hoa Kỳ rút hết quân đội ra khỏi miền Nam Việt Nam; 2) Ngừng bắn trên toàn miền Nam; 3) Công nhận các quyền dân tộc cơ bản của nhân dân Việt Nam; 4) Thừa nhận thực tế có hai chính quyền ở miền Nam; 5) Thống nhất Việt Nam bằng phương pháp hòa bình.",
+        "year": 1973,
+        "category": "Hiệp định quan trọng",
+        "sources": ["Văn kiện Hiệp định Paris 1973"],
+        "keywords": ["Hiệp định Paris", "hòa bình", "thống nhất"],
+        "related_ids": ["HIS_1975_01", "HIS_1973_02"]
+    },
+
+    "HIS_1968_01": {
+        "question": "Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 có ý nghĩa gì?",
+        "answer": "Tết Mậu Thân 1968 có ý nghĩa quan trọng: 1) Làm lung lay ý chí xâm lược của Mỹ; 2) Buộc Mỹ phải tuyên bố ngừng ném bom miền Bắc và chấp nhận đàm phán ở Paris; 3) Chứng minh sức mạnh và quyết tâm của quân dân Việt Nam; 4) Tạo bước ngoặt trong cuộc kháng chiến chống Mỹ.",
+        "year": 1968,
+        "category": "Chiến dịch lớn",
+        "sources": ["Viện Lịch sử Quân sự Việt Nam"],
+        "keywords": ["Tết Mậu Thân", "tổng tiến công", "chống Mỹ"],
+        "related_ids": ["HIS_1968_02", "HIS_1973_01"]
+    },
+
+    "HIS_1954_01": {
+        "question": "Chiến thắng Điện Biên Phủ có ý nghĩa lịch sử như thế nào?",
+        "answer": "Chiến thắng Điện Biên Phủ (7/5/1954) có ý nghĩa lịch sử to lớn: 1) Kết thúc sự thống trị của thực dân Pháp ở Đông Dương; 2) Buộc Pháp phải ký Hiệp định Geneva; 3) Mở đường cho phong trào giải phóng dân tộc ở các nước thuộc địa; 4) Là chiến thắng quân sự lớn nhất của Việt Nam trong thế kỷ 20.",
+        "year": 1954,
+        "category": "Chiến dịch lớn",
+        "sources": ["Viện Sử học Việt Nam"],
+        "keywords": ["Điện Biên Phủ", "chiến thắng", "chống Pháp"],
+        "related_ids": ["HIS_1954_02", "HIS_1954_03"]
+    },
+
+    "HIS_1945_01": {
+        "question": "Tại sao Cách mạng tháng Tám 1945 thành công?",
+        "answer": "Cách mạng tháng Tám 1945 thành công do: 1) Thời cơ khách quan thuận lợi khi phát xít Nhật đầu hàng Đồng minh; 2) Sự lãnh đạo đúng đắn của Đảng và Chủ tịch Hồ Chí Minh; 3) Cao trào cách mạng toàn quốc; 4) Sức mạnh đoàn kết của toàn dân tộc; 5) Kinh nghiệm đấu tranh cách mạng được tích lũy qua các phong trào trước đó.",
+        "year": 1945,
+        "category": "Cách mạng",
+        "sources": ["Viện Sử học Việt Nam"],
+        "keywords": ["Cách mạng tháng Tám", "độc lập", "thắng lợi"],
+        "related_ids": ["HIS_1945_02", "HIS_1945_03"]
+    },
+
+    "HIS_1940_01": {
+        "question": "Khởi nghĩa Nam Kỳ 1940 nổ ra trong hoàn cảnh nào?",
+        "answer": "Khởi nghĩa Nam Kỳ nổ ra ngày 23/11/1940 trong bối cảnh: 1) Pháp đầu hàng phát xít Đức; 2) Nhật vào Đông Dương; 3) Thực dân Pháp tăng cường đàn áp phong trào cách mạng; 4) Đảng Cộng sản Đông Dương chủ trương đẩy mạnh đấu tranh vũ trang.",
+        "year": 1940,
+        "category": "Khởi nghĩa",
+        "sources": ["Viện Sử học Việt Nam"],
+        "keywords": ["Nam Kỳ", "khởi nghĩa", "chống Pháp"],
+        "related_ids": ["HIS_1940_02", "HIS_1945_01"]
+    },
+
+    "HIS_1930_01": {
+        "question": "Xô Viết Nghệ Tĩnh 1930-1931 là gì?",
+        "answer": "Xô Viết Nghệ Tĩnh là cao trào cách mạng 1930-1931 ở Nghệ An và Hà Tĩnh, dưới sự lãnh đạo của Đảng Cộng sản Đông Dương. Đây là hình thức chính quyền cách mạng đầu tiên của giai cấp công nhân Việt Nam, thực hiện nhiều chính sách tiến bộ như chia ruộng đất cho dân cày, xóa bỏ các hủ tục.",
+        "year": 1930,
+        "category": "Phong trào cách mạng",
+        "sources": ["Viện Sử học Việt Nam"],
+        "keywords": ["Xô Viết Nghệ Tĩnh", "cách mạng", "chính quyền nhân dân"],
+        "related_ids": ["HIS_1930_02", "HIS_1931_01"]
+    },
+
+    "HIS_1858_01": {
+        "question": "Thực dân Pháp bắt đầu xâm lược Việt Nam như thế nào?",
+        "answer": "Pháp bắt đầu xâm lược Việt Nam từ ngày 1/9/1858 khi tấn công Đà Nẵng. Sau đó, họ đánh chiếm Gia Định (1859), rồi lần lượt chiếm các tỉnh miền Nam (1862-1867), miền Bắc (1873-1883) và miền Trung (1883-1884), thiết lập chế độ thuộc địa trên toàn Việt Nam.",
+        "year": 1858,
+        "category": "Xâm lược",
+        "sources": ["Đại Nam thực lục"],
+        "keywords": ["Pháp xâm lược", "thuộc địa", "Đà Nẵng"],
+        "related_ids": ["HIS_1859_01", "HIS_1862_01"]
+    },
+
+    "HIS_1802_01": {
+        "question": "Sự thống nhất đất nước dưới thời Gia Long có ý nghĩa gì?",
+        "answer": "Năm 1802, Nguyễn Ánh (Gia Long) thống nhất đất nước có ý nghĩa: 1) Chấm dứt thời kỳ phân tranh Nam-Bắc triều kéo dài hơn 200 năm; 2) Thống nhất lãnh thổ từ Bắc vào Nam; 3) Đặt nền móng cho triều Nguyễn - triều đại phong kiến cuối cùng của Việt Nam; 4) Đổi quốc hiệu thành Việt Nam.",
+        "year": 1802,
+        "category": "Thống nhất",
+        "sources": ["Đại Nam thực lục"],
+        "keywords": ["Gia Long", "thống nhất", "triều Nguyễn"],
+        "related_ids": ["HIS_1802_02", "HIS_1803_01"]
+    }
+}
