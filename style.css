@@ -1,24 +1,64 @@
-/* Định dạng nút câu hỏi */
+/* 🎨 Định dạng nút câu hỏi */
 div.stButton > button {
     border: 2px solid #3498db;  /* Viền xanh dương */
     border-radius: 12px;        /* Bo góc */
     padding: 5px 10px;
     white-space: nowrap;        /* Không xuống dòng */
-    overflow: hidden;           /* Không tràn ra ngoài */
+    overflow: hidden;           /* Ẩn nội dung tràn */
     text-overflow: ellipsis;    /* Chữ dài sẽ có dấu "..." */
-    background-color: #f5f5f5;  /* Màu nền xám nhẹ */
+    background-color: #f5f5f5;  /* Nền xám nhẹ */
     font-weight: bold;
     cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-/* Hiệu ứng khi rê chuột vào nút */
+/* 🌟 Hiệu ứng khi rê chuột vào nút */
 div.stButton > button:hover {
     background-color: #3498db;
     color: white;
 }
 
-/* Ô nhập câu hỏi */
+/* 🖊️ Tùy chỉnh ô nhập câu hỏi */
 div[data-testid="stTextInput"] > div {
+    border-radius: 8px;
+    border: 2px solid #ccc;
+}
+
+/* 🔥 Cải tiến nút câu hỏi phổ biến */
+.marquee-button {
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    color: #333;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.marquee-button:hover {
+    background-color: #ddd;
+}
+
+/* 🚀 Hiệu ứng chạy ngang nếu chữ dài */
+.marquee-button span {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 6s linear infinite;
+}
+
+@keyframes marquee {
+    from {
+        transform: translateX(0%);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+/* 🎭 Ẩn viền input khi bấm chọn câu hỏi */
+input[type="text"] {
     border-radius: 8px;
     border: 2px solid #ccc;
 }
