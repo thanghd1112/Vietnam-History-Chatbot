@@ -1,0 +1,7 @@
+{
+    "no_answer": "Xin lỗi, tôi không tìm thấy thông tin phù hợp với câu hỏi của bạn. Vui lòng thử lại với cách hỏi khác hoặc chọn một chủ đề khác.",
+    "error": "Đã xảy ra lỗi trong quá trình xử lý câu hỏi. Vui lòng thử lại sau.",
+    "confidence_high": "Độ tin cậy cao",
+    "confidence_medium": "Độ tin cậy trung bình",
+    "source_prefix": "🔗 **Nguồn tham khảo:**"
+}

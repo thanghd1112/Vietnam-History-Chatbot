@@ -109,5 +109,53 @@
         "sources": ["Đại Nam thực lục"],
         "keywords": ["Gia Long", "thống nhất", "triều Nguyễn"],
         "related_ids": ["HIS_1802_02", "HIS_1803_01"]
+    },
+    "HIS_1789_01": {
+        "question": "Chiến thắng Ngọc Hồi - Đống Đa có ý nghĩa gì?",
+        "answer": "Trận Ngọc Hồi - Đống Đa diễn ra ngày 5/1/1789, khi quân Tây Sơn dưới sự chỉ huy của Quang Trung đánh bại quân Thanh, bảo vệ nền độc lập dân tộc.",
+        "year": 1789,
+        "category": "Chiến thắng quân sự",
+        "sources": ["Đại Việt sử ký toàn thư"],
+        "keywords": ["Quang Trung", "Ngọc Hồi", "Đống Đa"],
+        "related_ids": ["HIS_1788_01", "HIS_1792_01"]
+    },
+    "HIS_1428_01": {
+        "question": "Chiến thắng năm 1428 của Lê Lợi có tác động gì?",
+        "answer": "Chiến thắng năm 1428 của Lê Lợi kết thúc cuộc kháng chiến chống quân Minh, mở ra thời kỳ độc lập lâu dài của Đại Việt dưới triều Lê sơ.",
+        "year": 1428,
+        "category": "Chiến thắng quân sự",
+        "sources": ["Đại Việt sử ký toàn thư"],
+        "keywords": ["Lê Lợi", "kháng chiến chống Minh", "Đại Việt"],
+        "related_ids": ["HIS_1418_01", "HIS_1433_01"]
+    },
+
+
+
+    "HIS_1009_01": {
+        "question": "Nhà Lý được thành lập trong hoàn cảnh nào?",
+        "answer": "Năm 1009, Lý Công Uẩn lên ngôi, lập nên triều Lý sau khi triều Tiền Lê suy yếu. Ông dời đô từ Hoa Lư về Thăng Long vào năm 1010, mở ra thời kỳ phát triển mới của Đại Việt.",
+        "year": 1009,
+        "category": "Triều đại phong kiến",
+        "sources": ["Đại Việt sử ký toàn thư"],
+        "keywords": ["Nhà Lý", "Lý Công Uẩn", "Thăng Long"],
+        "related_ids": ["HIS_1010_01", "HIS_1054_01"]
+    },
+    "HIS_938_01": {
+        "question": "Chiến thắng Bạch Đằng năm 938 có ý nghĩa gì?",
+        "answer": "Chiến thắng Bạch Đằng năm 938 do Ngô Quyền lãnh đạo đã đánh bại quân Nam Hán, chấm dứt 1000 năm Bắc thuộc, mở ra thời kỳ tự chủ cho dân tộc Việt Nam.",
+        "year": 938,
+        "category": "Chiến thắng quân sự",
+        "sources": ["Đại Việt sử ký toàn thư"],
+        "keywords": ["Bạch Đằng", "Ngô Quyền", "tự chủ"],
+        "related_ids": ["HIS_939_01", "HIS_968_01"]
+    },
+    "HIS_40_01": {
+        "question": "Khởi nghĩa Hai Bà Trưng năm 40 diễn ra như thế nào?",
+        "answer": "Năm 40, Hai Bà Trưng lãnh đạo cuộc khởi nghĩa chống ách đô hộ của nhà Hán. Quân khởi nghĩa nhanh chóng giành lại 65 thành trì, lập nền tự chủ trong ba năm trước khi bị đàn áp vào năm 43.",
+        "year": 40,
+        "category": "Khởi nghĩa",
+        "sources": ["Đại Việt sử ký toàn thư"],
+        "keywords": ["Hai Bà Trưng", "khởi nghĩa", "chống Hán"],
+        "related_ids": ["HIS_43_01", "HIS_248_01"]
     }
 }
